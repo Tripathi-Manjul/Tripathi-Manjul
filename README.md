@@ -1,12 +1,21 @@
-    👋 Hi, I’m Manjul
-    👀 I’m interested in data engineering, data analysis, cloud computing.
-    🌱 I’m currently learning AWS (Amazon Web Services) and GCP (Google Cloud Platform).
-    💞️ I’m looking to collaborate on projects related to data engineering, data analysis, and cloud computing.
-    📫 How to reach me: You can reach me via email at tripathimanjul18@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/manjul-tripathi-46502b22a/.
-    😄 Pronouns: he/him.
-    ⚡ Fun fact: I enjoy experimenting with new technologies and exploring different cultures through travel.
+# 👋 Hi, I’m Manjul Tripathi
 
-<!---
-Tripathi-Manjul/Tripathi-Manjul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Data Engineer with 3+ years of experience in building scalable, production-grade data pipelines and data infrastructure across AWS and GCP. My strengths lie in transforming raw data into actionable insights, automating workflows, and optimizing performance for real-time analytics.
+
+## 🔧 Core Skills:
+- Python, SQL, Pandas
+- Apache Airflow, BigQuery, MongoDB
+- AWS (S3, Lambda), GCP (BigQuery, Cloud Functions)
+- Git, Superset, Looker
+
+## 🚀 What I'm Working On:
+- Generalizing real-world projects for GitHub
+- Daily problem-solving on [LeetCode](https://leetcode.com/u/Manjul_Tripathi/)
+- Exploring data platform tools for performance optimization
+
+## 📌 Reach Me:
+- Email: tripathimanjul18@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/manjul-tripathi-46502b22a/)
+- [GitHub](https://github.com/Tripathi-Manjul)
+
+⚡ Fun fact: I love clean data pipelines and chaotic road trips.
